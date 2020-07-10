@@ -1,5 +1,8 @@
-### Hi there 👋
-
+ _       _ _            _ _   _       _   
+| |_ ___| | |___    ___|_| |_| |_ _ _| |_ 
+|   | -_| | | . |  | . | |  _|   | | | . |
+|_|_|___|_|_|___|  |_  |_|_| |_|_|___|___|
+                   |___|                  
 <!--
 **wehard/wehard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
