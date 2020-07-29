@@ -5,8 +5,6 @@
 |_|_|___|_|_|___|  |_  |_|_| |_|_|___|___|
                    |___|                  
 ```
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=wehard)
 <!--
 **wehard/wehard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
